@@ -1,0 +1,14 @@
+C:\Users\frankluo\Desktop\2.9\2.9\bin\Debug\2.9.exe.config
+C:\Users\frankluo\Desktop\2.9\2.9\bin\Debug\2.9.exe
+C:\Users\frankluo\Desktop\2.9\2.9\bin\Debug\2.9.pdb
+C:\Users\frankluo\Desktop\2.9\2.9\obj\Debug\2.9.csprojAssemblyReference.cache
+C:\Users\frankluo\Desktop\2.9\2.9\obj\Debug\2.9.csproj.CoreCompileInputs.cache
+C:\Users\frankluo\Desktop\2.9\2.9\obj\Debug\2.9.exe
+C:\Users\frankluo\Desktop\2.9\2.9\obj\Debug\2.9.pdb
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\bin\Debug\2.9.exe.config
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\bin\Debug\2.9.exe
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\bin\Debug\2.9.pdb
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\obj\Debug\2.9.csprojAssemblyReference.cache
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\obj\Debug\2.9.csproj.CoreCompileInputs.cache
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\obj\Debug\2.9.exe
+C:\Users\frankluo\Desktop\homework2\2.9\2.9\obj\Debug\2.9.pdb

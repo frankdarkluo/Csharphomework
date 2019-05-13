@@ -1,0 +1,10 @@
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\bin\Debug\Paint_Tree.exe.config
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\bin\Debug\Paint_Tree.exe
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\bin\Debug\Paint_Tree.pdb
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.csprojAssemblyReference.cache
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.Form1.resources
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.Properties.Resources.resources
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.csproj.GenerateResource.cache
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.csproj.CoreCompileInputs.cache
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.exe
+C:\Users\frankluo\Desktop\homework7\Paint_Tree\Paint_Tree\obj\Debug\Paint_Tree.pdb

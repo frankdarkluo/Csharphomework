@@ -1,0 +1,7 @@
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\obj\Debug\Simple Factory.csprojAssemblyReference.cache
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\obj\Debug\Simple Factory.csproj.CoreCompileInputs.cache
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\bin\Debug\Simple Factory.exe.config
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\bin\Debug\Simple Factory.exe
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\bin\Debug\Simple Factory.pdb
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\obj\Debug\Simple Factory.exe
+C:\Users\frankluo\Desktop\homework3\Simple Factory\Simple Factory\obj\Debug\Simple Factory.pdb

@@ -1,0 +1,7 @@
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\frankluo\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
